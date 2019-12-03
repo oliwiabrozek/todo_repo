@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lista Zadań</string>
+    <string name="activity_edit_name">Edycja Zadania</string>
+    <string name="fragment_form_name">Formularz Zadania</string>
+
+    <string-array name="priority_array">
+        <item>Niski</item>
+        <item>Średni</item>
+        <item>Wysoki</item>
+    </string-array>
+
+    <string name="priority_prompt">Wybierz priorytet zadania</string>
+
+    <string-array name="status_array">
+        <item>Nierozpoczęte</item>
+        <item>W trakcie</item>
+        <item>Zrobione</item>
+    </string-array>
+
+    <string name="status_prompt">Wybierz status zadania</string>
+
+</resources>
